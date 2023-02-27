@@ -1,6 +1,6 @@
 # HexBot-Learning-Environment
 
-The algorithms was developed as part of a course (COMP4702 - Artificial Intelligence) I undertook at the University of Queensland.
+The algorithms was developed as part of a course (COMP3702 - Artificial Intelligence) I undertook at the University of Queensland.
 
 The algorithms are not stand alone and require 'support code' which has not been uploaded. The code should not run but it serves as a demonstration of my understanding in various basic models used in artificial intelligence.
 Algorithms implemeted in the repository contain the following:
